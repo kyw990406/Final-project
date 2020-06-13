@@ -17,4 +17,5 @@
 본인의 서버에 이 repository를 clone해가셔서 /var/www/html에 옮기시고, 인터넷 주소창에 본인의 서버주소/start.html을 입력하시면 시작할 수 있습니다.
 
 # Where can I get more help, if I need it?
+소개영상 : https://youtu.be/3RcylOtJVD0
 도움이 필요하시면 21800132@handong.edu로 연락주시면, 도와드리겠습니다.
